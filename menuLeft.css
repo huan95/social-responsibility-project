@@ -1,0 +1,84 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: lighter;
+
+}
+
+/* Set height of the grid so .sidenav can be 100% (adjust if needed) */
+.row.content {height: 1500px}
+
+/* Set gray background color and 100% height */
+.sidenav {
+    background-color: #000;
+    height: 100%;
+}
+
+.logo {
+    margin-bottom: 40px;
+}
+
+.input-group {
+    margin-top: 50px;
+    margin-bottom: 20px;
+
+}
+
+.copyright {
+    font-size: 15px;
+    text-align: center;
+}
+
+.fab {
+    font-size: 20px;
+    color: white;
+    padding: 0px 10px;
+
+}
+
+.iconns {
+    margin: 10px 30px;
+}
+#menu ul {
+    background: transparent;
+    width: 196px;
+    padding: 0;
+    list-style-type: none;
+    text-align: left;
+}
+#menu li {
+    width: auto;
+    height: 40px;
+    line-height: 40px;
+
+    padding: 0 1em;
+}
+#menu li a {
+    text-decoration: none;
+    color: white;
+    font-weight: lighter;
+    display: block;
+
+}
+#menu li:hover {
+    background: orange;
+}
+
+/*==Dropdown Menu==*/
+#menu ul li {
+    position: relative;
+
+}
+#menu .sub-menu {
+    position: absolute;
+    left: 196px;
+    top: 0;
+    display: none;
+    background: black;
+    width: 220px;
+
+}
+#menu li:hover .sub-menu {
+    display: block;
+}
+

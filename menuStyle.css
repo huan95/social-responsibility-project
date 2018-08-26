@@ -1,0 +1,255 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: medium;
+}
+body {
+    background: url(../images/bg.jpg);
+    background-position-x: 0%;
+    background-position-y: 0%;
+    background-attachment: scroll;
+    background-size: auto auto;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.nav_vertical {
+    background-color: rgba(10, 10, 10, 0.9);
+    height: 100%;
+    width: 100%;
+    padding: 0;
+}
+.nav-item {
+    vertical-align: center;
+}
+
+.nav-link {
+    vertical-align: center;
+}
+.mobile-bar > li {
+    position: relative;
+    padding: 0 1em;
+}
+.mobile-bar > li > a {
+    padding: 10px 8px 10px 40px;
+    width: 100%;
+    color: #fff;
+    display: block;
+    font-size: 14px;
+    font-weight: 200;
+}
+.mobile-bar li:hover {
+    background: orange;
+}
+.mobile-bar li:hover a {
+    color: #fff;
+}
+.content-right {
+    color: #fff;
+}
+
+/*==Dropdown Menu==*/
+
+.sub-menu {
+    position: absolute;
+    width: 200px;
+    left: 337px;
+    background-color: rgba(10, 10, 10, 0.9);
+    list-style: none;
+    padding: 0;
+    z-index: 999;
+    display: none;
+    top: 0;
+}
+.sub-menu a {
+    padding: 10px 8px 10px 10px;
+    color: #fff;
+    display: block;
+    font-size: 14px;
+    font-weight: 200;
+    border-bottom: 1px solid rgba(44, 44, 44, 0.8);
+}
+.sub-menu a:hover {
+    text-decoration: none;
+}
+ul li:hover .sub-menu {
+    display: block;
+}
+.input-group {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    padding: 0 15px;
+}
+.iconns {
+    margin: 10px 30px;
+    text-align: center;
+}
+.copyright {
+    text-align: center;
+    font-size: 15px;
+    color: #696969;
+    line-height: 24px;
+    margin: 0 0 1.75em;
+}
+
+.logo {
+    width: 200px;
+    margin: 20px auto 30px;
+}
+#Layer_2 {
+    display: none;
+}
+.input-group input[type="search"] {
+    background: rgba(91, 91, 91, 0.56);
+    border: 0;
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+.input-group input::placeholder {
+    color: #ccc;
+}
+.iconns i {
+    color: #fff;
+    font-size: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+/*----- Button mobile -----*/
+
+.menu-triger {
+    background: none;
+    border: none;
+    border-radius: 4px;
+    display: block;
+    float: right;
+    padding: 4px;
+    position: absolute;
+    right: 15px;
+    top: 15px;
+    z-index: 9;
+    cursor: pointer;
+}
+.menu-triger > span {
+    background: #fff;
+    clear: both;
+    float: left;
+    height: 3px;
+    margin: 3px 0;
+    width: 30px;
+}
+.menu-triger {
+    display: none;
+}
+
+
+/*-------------- Responsive ----------------*/
+
+@media all and (max-width: 1024px) {
+
+    .schedules .nav-tabs li a {
+        font-size: 22px;
+    }
+}
+
+
+@media all and (max-width: 980px) {
+
+    .schedules .nav-tabs li a {
+        font-size: 20px;
+    }
+}
+
+@media all and (max-width: 800px) {
+
+
+}
+
+@media all and (max-width: 768px) {
+
+    .menu-triger, #Layer_2 {
+        display: block;
+    }
+    .header-sidebar.nav_vertical, .content-right.schedules.pricing.pricing-two.padding-120 {
+        width: 100%;
+        max-width: 100%;
+        flex: inherit;
+    }
+    #Layer_1 {
+        display: none;
+    }
+    .logo {
+        margin: 10px 0 10px 20px;
+        width: 260px;
+    }
+    .mobile-bar > li > a {
+        padding-left: 5px;
+    }
+    .sub-menu {
+        left: auto;
+        right: 0;
+    }
+    .d-sm-none {
+        display: none;
+    }
+    .input-group {
+        margin-top: 10px;
+    }
+    .menu-mobile {
+        display: none;
+    }
+    .pricing .pricing-item .pricing-header {
+        padding: 30px 15px;
+    }
+    .pricing .pricing-item .pricing-header .name {
+        font-size: 20px;
+    }
+    .schedules .schedule-tabs {
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
+
+@media all and (max-width: 600px) {
+
+    .schedules .nav-tabs li a {
+        padding: 6px 10px;
+        font-size: 16px;
+    }
+
+    .ticket {
+        width: 100%;
+        max-width: 100%;
+        flex: inherit;
+    }
+    .pricing .pricing-item .pricing-header .name {
+        font-size: 24px;
+    }
+    .pricing .pricing-item .pricing-header .name {
+        padding: 0;
+    }
+}
+
+@media all and (max-width: 480px) {
+
+    .schedules .nav-tabs li {
+        float: none;
+        border: 1px solid #fafafa;
+        margin-bottom: 10px;
+    }
+    .section-header h3 {
+        font-size: 30px;
+    }
+    .schedules .nav-tabs {
+        display: block;
+    }
+}
+
+@media all and (max-width: 414px) {
+
+    .logo {
+        width: 200px;
+    }
+    .menu-triger {
+        top: 10px;
+    }
+}

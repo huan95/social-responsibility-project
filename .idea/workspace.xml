@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ba84fa9-268d-4955-bbeb-ecf11ca976ac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trang chủ/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trang chủ/Trang chủ hoàn chỉnh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trang chủ/Trang chủ.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Trang chủ/trang chủ.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../menu/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00 Trách nhiệm xã hội hoàn chỉnh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trách nhiệm xã hội.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project thu vien anh/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/1 project anh.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Project thu vien anh/1 project anh.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/B13nw6prrb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/B18RQ53SHb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/B1BMAvhHH-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/B1FGCv2HH-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/B1KhMsfMHW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/B1LOs3MMrZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/B1M4zg6SrZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/B1OH2GMHW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/B1OfM_3rBb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/B1UdHnfzBZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/B1ZeKQCnrBb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/B1_iknffS-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/B1a2vT6HH-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/B1afG_2SrW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/B1fF7A3Hrb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/B1h9D_2rrb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/B1jRXqhSHb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/B1lpP3hBSb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/B1mzAlArSb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/B1zeM0v2rBZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/BJ02zoGMSZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/BJ2_tz6rrW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/BJ32GiGzBb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/BJ8aCqMGr-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/BJA_YzTrS-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/BJR9vOhBH-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/BJS2MsGfB-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/BJTAqzGrW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/BJTtQ02rBW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/BJUhva6BSb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/BJV2GifzH-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/BJX6Dhhrr-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/BJZ6v23BrZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/BJZlNfe6BHb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/BJa3fjGzSW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/BJgORFMzSW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/BJgxdKfpHHZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/BJhfzOhBrW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/BJnM0PnBBW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/BJrVMxpBBb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/BJyepwnhSSW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/Bk0drnGGB-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/Bk0fMd3SHb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/Bk2tm03SSZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/Bk3TwhhSHZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/Bk4i1hfzSZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/Bk4qwuhHBb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/Bk5OB2zzBW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/BkB3wa6BHZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/BkCTwhhSrW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/BkNOs2GzBZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/BkPMCeRBB-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/BkZffdhSHZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/Bkc3P6TrHb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/BklVjxeeb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/Bkp07chBSZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/BkygzGunBBW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/ByBiynzMBW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/ByCCm52SB-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/ByFjk2zzrZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/ByGOCKMGBW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/ByQYQR3HrZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/BybsJ2ffB-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/ByeGAgCrH-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/BygTCcfMBb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/BykxAXqhBB-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/BymqP_hrS-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/Byshfsffrb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/BytOtMaBBb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/ByuhGjGGrW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/Byye2DTpHSZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/ByygcwO3rSW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/ByzcP_hBHW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/H13oy3GfBW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/H14GAwnrr-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/H18KQCnrHZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/H18z0eRrBW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/H1QNMlTHSb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/H1Riy2zfrW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/H1V6DhnrSZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/H1Wz0w3SB-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/H1b_j3fGSZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/H1e9PO3SHb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/H1gtmA3Hrb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/H1i_YzaHSb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/H1nDYzGBb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/H1qcw_3HBW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/H1tGGOnrBZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/H1vFQA3BHb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/H1vdihzGr-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/H1woiFGzBb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/HJ-TC5GzSZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/HJ3R7q3SSZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/HJ4OBhffHb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/HJ6wh3rHW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/HJ7dAKMfB-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/HJCQq3Sr-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/HJINGg6BrW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/HJLMf_nSSb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/HJOOohzfS-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/HJPfMOnSBZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/HJRGAPhHHb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/HJXMCPhHSZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/HJglY7C3HB-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/HJle3vaTHB-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/HJledrhMzBW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/HJt4Mg6SSW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/HJxe3GjzfB-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/HJyxdFGaSH-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/HJzxOYf6SS-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/Hk4jsKGGHW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/HkB_B2GzBb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/HkGeCX5nHBZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/HkGl2vT6HHZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/HkWHHoMGHW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/Hkb_SnGzBb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/HkffM_hHBb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/Hki3PTpHSZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/HkmuBnfMBb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/HkoiYfMHb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/HksFQR2rBb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/HkusotzGS-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/HkxMRP2BH-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/Hy1g3foGzHb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/HyBawhnrBb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/HyDzRwhBrZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/HyGAPhHr-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/HyGgjynGMr-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/HyGsitMzBb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/HySAXchSBW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/HyTEselxW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/HyTZslelb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/HyWgdBhMfS-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/HydC7c2rrZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/HyezMuhHBZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/HyfhDYfzrZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/Hyglzfu3BSW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/HyjfRD2rrZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/HylBSsGzSW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/HyrGMu2HBW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/Hyrus3GMBZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/HyylGRPhrS-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/S16pvh3HHZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/S1Ehwp6HSZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/S1EzzunrHb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/S1GiJ2zGrZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/S1GrrsMMB-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/S1GxhfozGBb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/S1K5D_2BHb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/S1MnP6pSBZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/S1STR9GfHZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/S1Ts1hGMSZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/S1WEflarBZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/S1W_AYzGBZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/S1X2zizfHZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/S1ZzClABrb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/S1cPu2BH-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/S1oOB2GMrZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/S1rYX03rS-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/S1w_BnGfHW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/SJ2GizMBZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/SJ7R752SH-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/SJFTw2nHHZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/SJJeY7AnrHW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/SJKKQ03rrb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/SJOOKz6rS-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/SJOcPOnrrW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/SJPpP2nHS-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/SJS_YzpSBW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/SJYm02rBZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/SJZhPKMMSZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/SJcG0xABH-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/SJc_YfaHHZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/SJgOj3zfrW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/SJo4GeaHrZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/SJuTvnhrH-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/SJvnPTpBrb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/SJxnGoMMHZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/Sk1luBnMGSb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/Sk3DTarSZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/SkG6AcMzB-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/SkGdS3zMHb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/SkIisFMzHb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/SkQiJ3zMBZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/SkUsJnfzrW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/SkZnD6TrSZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/SkZx_YzTHrW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/Sk_onMMBb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/SkafRDnrSZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/Skd2vT6BBW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/SkgefRD2HrZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/Skj6v3hrHW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/SkluKfaSSb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/Skua0qfMSZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/Skzlur2fGSW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/SkzzRP3rBW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/Sy5msxxgb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/Sy7dtfTHHZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/SyD5DO2SBW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/SyHjoKfzH-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/SyLgixllb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/SyM_snMzSb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/SyN4fx6rrb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/SyNutzaHHb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/SyP_KGarBZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/SydOHhzfS-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/Syexavn3rH-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/SyizGd2Br-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/SynOS3MzBb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/SyqFQR3SSW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/SywVMgaHBb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/SyxojKGMHb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/SyxuSnMGBW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/Syzl4GxaBSW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/The arena.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/Thư viện ảnh.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/Tu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/menuLeft.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/mstile-144x144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/r1-9DdnSS-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/r1-eGf_nBS-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/r1AFQAhSSZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/r1CEGg6BHZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/r1KnD6TBHW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/r1OtfaBSZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/r1SboxeeW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/r1ZeG0wnBHW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/r1ZootzMHZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/r1_CYGGBZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/r1aNMlaBHZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/r1bei1hGzHZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/r1egsJhfGHZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/r1futz6rr-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/r1jcD_2HBW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/r1q0792rBZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/r1zM0eArB-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rJ3NGx6HBb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rJ72PYGfrW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rJ7GMuhrBZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rJEzx6rSb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rJGgfG_nHSb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rJNpR9fMBZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rJOfAgRHHb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rJPRm5nBBW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rJSGAlCSrb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rJU3zsGMHb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rJU9wd2rBW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rJUzRP2SSZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rJVt7RnrrZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rJXsstMGrZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rJXuinfGS-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rJa5Du3SHZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rJbeCmqhSH-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rJcnGsfzBb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rJcpv2nBHb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rJeiJnMMHb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rJghwaTrB-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rJjJ2GGBb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rJp_tf6SrZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rJtdB3GMSW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rJtz0eASBZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rJu4MepHr-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rJuGRD3SHW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rJz3zoMzBW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rk-YmCnBH-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rk03v66BHW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rk9Vfl6HSb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rkEG0e0rHZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rkGgKmA3BBZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rkJl4zeaBS-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rkMzO2rSZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rkPnzsMfSZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rkQ2vT6rS-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rkScPd3SB-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rkZlhGsMGBW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rk_YQChSr-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rkgNMxaHHZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rktCm53Sr-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rkxgVfl6Hr-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rkyesknzfSZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rkz0Qc2SHW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/ry-eavnnSBZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/ry-hfjMfr-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/ry5fCwhSB-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/ry5fG_hBBW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/ry760qfMHZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/ry8_KM6SS-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/ryERQc2SSW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/ryHHoMMr-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/ryLTD3nSSZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/ryQu2xxgW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/ryWCmq2Sr-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/ryaOS2MfHZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rybOKfprSZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rybx3PaTHB-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rycsJ2fGrW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/ryfAlAHBZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/ryge07cnrrZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rygx9wd2SrW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/ryifClCHSZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/ryjoy3MMrZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/ryl0QcnSHW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rylhPYGfH-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/ryvT0qzMS-.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rywEoggeb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/rywjJ2GMHZ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project thu vien anh/ryzaDn2SBb.jpg" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1653093249">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="27" />
+          <entry key="project.open.time.0" value="11" />
+          <entry key="project.open.time.1" value="8" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.53" value="2" />
+          <entry key="project.open.time.60" value="1" />
+          <entry key="project.open.time.66" value="1" />
+          <entry key="project.opened" value="27" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="18" />
+          <entry key="html" value="20" />
+          <entry key="jpg" value="14" />
+          <entry key="js" value="2" />
+          <entry key="png" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="18" />
+          <entry key="HTML" value="20" />
+          <entry key="Image" value="15" />
+          <entry key="JavaScript" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="60" />
+          <entry key="html" value="2078" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="60" />
+          <entry key="HTML" value="2078" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/00 Trách nhiệm xã hội hoàn chỉnh.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+              <folding>
+                <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#svg#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#stop#0;n#radialGradient#0;n#g#0;n#svg#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#stop#1;n#radialGradient#0;n#g#0;n#svg#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#stop#2;n#radialGradient#0;n#g#0;n#svg#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#stop#3;n#radialGradient#0;n#g#0;n#svg#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#stop#0;n#radialGradient#1;n#g#0;n#svg#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#stop#1;n#radialGradient#1;n#g#0;n#svg#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#stop#2;n#radialGradient#1;n#g#0;n#svg#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#stop#3;n#radialGradient#1;n#g#0;n#svg#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#stop#0;n#radialGradient#2;n#g#0;n#svg#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#stop#1;n#radialGradient#2;n#g#0;n#svg#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#stop#2;n#radialGradient#2;n#g#0;n#svg#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#stop#3;n#radialGradient#2;n#g#0;n#svg#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#use#0;n#clipPath#0;n#g#0;n#g#1;n#g#0;n#svg#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#p#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ok1.js" />
+        <option value="$PROJECT_DIR$/ok1.css" />
+        <option value="$PROJECT_DIR$/ok.html" />
+        <option value="$PROJECT_DIR$/1.css" />
+        <option value="$PROJECT_DIR$/1.html" />
+        <option value="$PROJECT_DIR$/Trách nhiệm xã hội.html" />
+        <option value="$PROJECT_DIR$/Thư viện ảnh.css" />
+        <option value="$PROJECT_DIR$/nhap.html" />
+        <option value="$PROJECT_DIR$/css/Thư viện ảnh.css" />
+        <option value="$PROJECT_DIR$/hoàn chỉnh.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="688" />
+    <option name="height" value="665" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="trách nhiệm xã hội" type="b2602c69:ProjectViewProjectNode" />
+              <item name="trách nhiệm xã hội" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Trang chủ" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ba84fa9-268d-4955-bbeb-ecf11ca976ac" name="Default Changelist" comment="" />
+      <created>1534921342913</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534921342913</updated>
+      <workItem from="1534921344637" duration="5052000" />
+      <workItem from="1534959028221" duration="2094000" />
+      <workItem from="1534987298583" duration="27000" />
+      <workItem from="1535005853757" duration="8723000" />
+      <workItem from="1535036738478" duration="10375000" />
+      <workItem from="1535050418162" duration="12000" />
+      <workItem from="1535092384317" duration="5830000" />
+      <workItem from="1535104580664" duration="1836000" />
+      <workItem from="1535168944621" duration="594000" />
+      <workItem from="1535188072685" duration="2603000" />
+      <workItem from="1535191480850" duration="6502000" />
+      <workItem from="1535277251478" duration="3664000" />
+      <workItem from="1535289721112" duration="113000" />
+      <workItem from="1535289949616" duration="159000" />
+      <workItem from="1535290209896" duration="356000" />
+      <workItem from="1535291096878" duration="216000" />
+      <workItem from="1535291631626" duration="5000" />
+      <workItem from="1535292170053" duration="4000" />
+      <workItem from="1535300185633" duration="156000" />
+      <workItem from="1535300412403" duration="6000" />
+      <workItem from="1535300513742" duration="1529000" />
+      <workItem from="1535302192393" duration="16000" />
+      <workItem from="1535302970413" duration="64000" />
+      <workItem from="1535304179517" duration="78000" />
+      <workItem from="1535304267570" duration="48000" />
+      <workItem from="1535304800725" duration="247000" />
+      <workItem from="1535305420604" duration="338000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="50647000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1873606" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1873606" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/menuLeft.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logo-monsoon-only.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trang chủ.css" />
+    <entry file="file://$PROJECT_DIR$/ok1.js" />
+    <entry file="file://$PROJECT_DIR$/rJuGRD3SHW.jpg" />
+    <entry file="file://$PROJECT_DIR$/SJuTvnhrH-.jpg" />
+    <entry file="file://D:/000 Gitproject/Linked list/[TH] Cài đặt danh sách liên kết/linked list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/S1ZzClABrb.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ok1.css" />
+    <entry file="file://$PROJECT_DIR$/Sy5msxxgb.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ok.html" />
+    <entry file="file://$PROJECT_DIR$/1.css" />
+    <entry file="file://$PROJECT_DIR$/1.html" />
+    <entry file="file://$PROJECT_DIR$/css/menuStyle.css" />
+    <entry file="file://$PROJECT_DIR$/Trách nhiệm xã hội.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2883">
+          <caret line="170" column="7" lean-forward="true" selection-start-line="170" selection-start-column="7" selection-end-line="170" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thư viện ảnh.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2380">
+          <caret line="140" column="3" selection-start-line="140" selection-start-column="3" selection-end-line="140" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/S1ZzClABrb.jpg" />
+    <entry file="file://$PROJECT_DIR$/css/Thư viện ảnh.css" />
+    <entry file="file://$PROJECT_DIR$/00 Trách nhiệm xã hội hoàn chỉnh.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#svg#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#stop#0;n#radialGradient#0;n#g#0;n#svg#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#stop#1;n#radialGradient#0;n#g#0;n#svg#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#stop#2;n#radialGradient#0;n#g#0;n#svg#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#stop#3;n#radialGradient#0;n#g#0;n#svg#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#stop#0;n#radialGradient#1;n#g#0;n#svg#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#stop#1;n#radialGradient#1;n#g#0;n#svg#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#stop#2;n#radialGradient#1;n#g#0;n#svg#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#stop#3;n#radialGradient#1;n#g#0;n#svg#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#stop#0;n#radialGradient#2;n#g#0;n#svg#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#stop#1;n#radialGradient#2;n#g#0;n#svg#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#stop#2;n#radialGradient#2;n#g#0;n#svg#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#stop#3;n#radialGradient#2;n#g#0;n#svg#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#use#0;n#clipPath#0;n#g#0;n#g#1;n#g#0;n#svg#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#p#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
